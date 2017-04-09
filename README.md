@@ -1,4 +1,4 @@
 # rpi_ffmpeg
 
-TODO: Enter the cookbook description here.
+Recipe to Compile ffmpeg for the Raspberry Pi
 
